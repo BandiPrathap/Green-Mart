@@ -11,7 +11,7 @@ const SHOP_LOCATION = {
   lat: 14.6197511,
   lng: 78.0043446
 };
-const WHATSAPP_NUMBER = "919390315670";
+const WHATSAPP_NUMBER = "916303343274";
 
 const Home = () => {
   // URL State Management

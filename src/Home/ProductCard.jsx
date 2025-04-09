@@ -2,6 +2,7 @@
 import { speakTelugu } from "./speakTelugu";
 
 const ProductCard = ({ product, expanded, toggleExpand, handleBuyNow }) => {
+
   return (
     <div className="product-card">
       <img src={product.imageUrl} alt={product.name_en} className="product-image" />
